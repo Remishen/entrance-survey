@@ -1,6 +1,8 @@
 # Entrance Survey
 
-test
+just a test
+remi
+
 The survey responses from the class have been randomized to prevent identification of any student.
 
 Code Book
